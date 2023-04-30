@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react2/static/css/main.35a40542.css",
-    "main.js": "/react2/static/js/main.223f134c.js",
+    "main.css": "/react2/static/css/main.cdd6e25f.css",
+    "main.js": "/react2/static/js/main.ea8acde3.js",
     "static/media/img-grid.png": "/react2/static/media/img-grid.56d0ea95909a2c1dee38.png",
     "static/media/katie.png": "/react2/static/media/katie.23640606321417d98df4.png",
     "static/media/airbnb-logo.png": "/react2/static/media/airbnb-logo.cd0810058f72e920d9d7.png",
     "static/media/biking.png": "/react2/static/media/biking.580d233218ce13c12011.png",
     "static/media/wedding.png": "/react2/static/media/wedding.472980f46278a2acd425.png",
     "index.html": "/react2/index.html",
-    "main.35a40542.css.map": "/react2/static/css/main.35a40542.css.map",
-    "main.223f134c.js.map": "/react2/static/js/main.223f134c.js.map"
+    "main.cdd6e25f.css.map": "/react2/static/css/main.cdd6e25f.css.map",
+    "main.ea8acde3.js.map": "/react2/static/js/main.ea8acde3.js.map"
   },
   "entrypoints": [
-    "static/css/main.35a40542.css",
-    "static/js/main.223f134c.js"
+    "static/css/main.cdd6e25f.css",
+    "static/js/main.ea8acde3.js"
   ]
 }
