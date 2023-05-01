@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react2/static/css/main.caa1d63e.css",
+    "main.css": "/react2/static/css/main.ce44c024.css",
     "main.js": "/react2/static/js/main.c5ad57d1.js",
     "static/media/vatican.png": "/react2/static/media/vatican.b858898ec6427abc943e.png",
     "static/media/biking.png": "/react2/static/media/biking.dc6d4cecba5e778d73cd.png",
@@ -13,11 +13,11 @@
     "static/media/githubIcon.svg": "/react2/static/media/githubIcon.cbbdd0c902376ddb076c5a0cd253936d.svg",
     "static/media/linkedin-filled.svg": "/react2/static/media/linkedin-filled.d09d64fe30b941c2d5dba4695179f496.svg",
     "index.html": "/react2/index.html",
-    "main.caa1d63e.css.map": "/react2/static/css/main.caa1d63e.css.map",
+    "main.ce44c024.css.map": "/react2/static/css/main.ce44c024.css.map",
     "main.c5ad57d1.js.map": "/react2/static/js/main.c5ad57d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.caa1d63e.css",
+    "static/css/main.ce44c024.css",
     "static/js/main.c5ad57d1.js"
   ]
 }
