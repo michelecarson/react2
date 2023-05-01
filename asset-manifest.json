@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react2/static/css/main.70ebf0d2.css",
-    "main.js": "/react2/static/js/main.dc9ac0b6.js",
+    "main.css": "/react2/static/css/main.1e4f204b.css",
+    "main.js": "/react2/static/js/main.c5ad57d1.js",
     "static/media/vatican.png": "/react2/static/media/vatican.b858898ec6427abc943e.png",
     "static/media/biking.png": "/react2/static/media/biking.dc6d4cecba5e778d73cd.png",
     "static/media/wedding.png": "/react2/static/media/wedding.b2113a64b81263bfe890.png",
@@ -9,12 +9,15 @@
     "static/media/img-grid.png": "/react2/static/media/img-grid.56d0ea95909a2c1dee38.png",
     "static/media/ishigaki.png": "/react2/static/media/ishigaki.6f9539a357405b91be6b.png",
     "static/media/airbnb-logo.png": "/react2/static/media/airbnb-logo.cd0810058f72e920d9d7.png",
+    "static/media/behanceIcon.svg": "/react2/static/media/behanceIcon.0fdaf6d63794886b37a6d1783c3174a8.svg",
+    "static/media/githubIcon.svg": "/react2/static/media/githubIcon.cbbdd0c902376ddb076c5a0cd253936d.svg",
+    "static/media/linkedin-filled.svg": "/react2/static/media/linkedin-filled.d09d64fe30b941c2d5dba4695179f496.svg",
     "index.html": "/react2/index.html",
-    "main.70ebf0d2.css.map": "/react2/static/css/main.70ebf0d2.css.map",
-    "main.dc9ac0b6.js.map": "/react2/static/js/main.dc9ac0b6.js.map"
+    "main.1e4f204b.css.map": "/react2/static/css/main.1e4f204b.css.map",
+    "main.c5ad57d1.js.map": "/react2/static/js/main.c5ad57d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.70ebf0d2.css",
-    "static/js/main.dc9ac0b6.js"
+    "static/css/main.1e4f204b.css",
+    "static/js/main.c5ad57d1.js"
   ]
 }
